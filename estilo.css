@@ -55,9 +55,12 @@
     margin: 10px;
     font-size: 16px;
 }
-
+/* Container Parallax 1 */
+.container-parallax1 {
+    background-image: url("./img/parallax-imagem1.jpeg");
+    height: 100vh;
 /* BANNER */
-
+}
 .container-parallax1 h1 {
     font-size: 40px;
     padding: 0 20px;
