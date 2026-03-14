@@ -141,7 +141,7 @@
 
 /* Container Parallax 1 */
 .container-parallax1 {
-    background-image: url("./img/parallax-imagem1.jpeg");
+    background-image: url("./imagem/parallax-imagem1.jpeg");
     height: 100vh;
 }
 
@@ -159,7 +159,7 @@
 
 /* Container Parallax 2 */
 .container-parallax2 {
-    background-image: url("./img/parallax-imagem2.jpeg");
+    background-image: url("./imagem/parallax-imagem2.jpeg");
     height: 50vh;
 }
 
@@ -188,14 +188,14 @@
 
 /* Container Parallax 3*/
 .container-parallax3 {
-    background-image: url("./img/parallax-imagem3.jpeg");
+    background-image: url("./imagem/parallax-imagem3.jpeg");
     height: 50vh;
 }
 
 
 /* Container Parallax 4 */
 .container-parallax4 {
-    background-image: url("./img/parallax-imagem4.jpeg");
+    background-image: url("./imagem/parallax-imagem4.jpeg");
     height: 100vh;
 }
 
