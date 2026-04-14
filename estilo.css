@@ -277,6 +277,12 @@ body {
     background-color: #c4a47c;
     border-radius: 4px;
 }
-
+.btn-topo {
+    position: fixed;
+    bottom: 20px;
+    right:20px;
+    width:60px;
+    cursor: pointer;
+}
 }
 
