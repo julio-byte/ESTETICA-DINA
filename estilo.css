@@ -278,22 +278,6 @@ body {
     background-color: #c4a47c;
     border-radius: 4px;
 }
-.container-rodape a {
-    display: inline-block;
-    width: 60px;
-    height: 60px;
-
-    position: absolute;
-    bottom: 80px;
-    right: 50px;
-
-    background-image: url("./img/seta-para-cima.png");
-    background-position: center;
-    background-size: cover;
-
-    background-color: #c4a47c;
-    border-radius: 4px;
-}
 
 }
 
