@@ -280,8 +280,8 @@ body {
 .btn-topo {
     position: fixed;
     bottom: 20px;
-    right:20px;
-    width:60px;
+    right: 20px;
+    width: 60px;
     cursor: pointer;
 }
 }
