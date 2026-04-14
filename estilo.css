@@ -283,6 +283,9 @@ body {
     right: 20px;
     width: 50px;
     cursor: pointer;
+    background-image: url("./img/seta-para-cima.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 }
 
