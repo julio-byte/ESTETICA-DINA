@@ -239,8 +239,8 @@ body {
     font-family: "Oswald", sans-serif;
 }
 
-.texto-marrom {
-    color: #c4a47c;
+.texto-vermelho {
+    color: red;
 }
 
 .lista-horarios li p {
