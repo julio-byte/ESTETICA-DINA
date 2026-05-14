@@ -211,6 +211,10 @@ body {
 }
 
 .lista-horarios li { /* tag <li> */
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 10px;
     position: relative;
 }
 
