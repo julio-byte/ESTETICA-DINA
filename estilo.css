@@ -230,15 +230,6 @@ body {
     background-color: #ACACAC
 }
 
-.lista-horarios li p,
-.texto-marrom { /* paragrafo + span*/
-    position: absolute;
-    top: 0;
-    right: 0;
-    font-weight: 700;
-    font-family: "Oswald", sans-serif;
-}
-
 }
 
 .lista-horarios li p {
