@@ -220,6 +220,7 @@ body {
 
 .lista-horarios li h3 { /* subtitulo = <h3> */
     min-width: 100px;
+    position: absolute;
     margin-bottom: 20px;
     color: red;
 }
@@ -237,6 +238,7 @@ body {
 
 .lista-horarios li p {
     min-width: 100px;
+    position: absolute;
     color: red;
 }
 
