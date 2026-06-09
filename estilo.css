@@ -236,8 +236,6 @@ body {
 }
 
 .lista-horarios li p {
-    min-width: 100px;
-    position: absolute;
     color: red;
 }
 
