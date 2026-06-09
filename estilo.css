@@ -236,6 +236,11 @@ body {
 }
 
 .lista-horarios li p {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
     color: red;
 }
 
